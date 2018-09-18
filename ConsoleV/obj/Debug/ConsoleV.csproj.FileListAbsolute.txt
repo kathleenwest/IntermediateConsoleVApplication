@@ -1,0 +1,6 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 5\IntermediateConsoleVApplication\ConsoleV\bin\Debug\ConsoleV.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 5\IntermediateConsoleVApplication\ConsoleV\bin\Debug\ConsoleV.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 5\IntermediateConsoleVApplication\ConsoleV\bin\Debug\ConsoleV.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 5\IntermediateConsoleVApplication\ConsoleV\obj\Debug\ConsoleV.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 5\IntermediateConsoleVApplication\ConsoleV\obj\Debug\ConsoleV.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\C# Programming II Object-Oriented Programming\Labs\Lab 5\IntermediateConsoleVApplication\ConsoleV\obj\Debug\ConsoleV.pdb
